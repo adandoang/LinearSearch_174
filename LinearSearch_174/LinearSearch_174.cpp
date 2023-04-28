@@ -65,4 +65,4 @@ int main()
     input();
     LinearSearch();
     return 0;
-}
+} 
